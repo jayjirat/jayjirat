@@ -23,7 +23,7 @@ I am a third-year Computer Engineering student at Thammasat University. I am pas
 - Mobile app development with Flutter and React Native
 
 ## 📫 How To Reach Me
-- Email: [่jirat8098@gmail.com](mailto:jirat8098@gmail.com)
+- Email: [jirat8098@gmail.com](mailto:jirat8098@gmail.com)
 
 ## ⚡ Fun Fact
 - I love exploring new tech trends and challenges. When I'm not coding, I enjoy learning about new developments in the tech industry.
